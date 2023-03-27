@@ -1,0 +1,23 @@
+1679954116630 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.browser is deprecated"
+1679954116640 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated"
+1679954116645 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.size() is deprecated; use the .length property"
+1679954116735 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 6:2531 "sprintf() will be removed in the next major release, use the sprintf-js package instead."
+1679954118869 SEVERE https://courses.prometheus.org.ua/api/user/v1/account/login_session/ - Failed to load resource: the server responded with a status of 400 (Bad Request)
+1679954122071 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.browser is deprecated"
+1679954122090 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated"
+1679954122091 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.size() is deprecated; use the .length property"
+1679954122228 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 6:2531 "sprintf() will be removed in the next major release, use the sprintf-js package instead."
+1679954126740 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.browser is deprecated"
+1679954126754 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated"
+1679954126755 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.size() is deprecated; use the .length property"
+1679954126870 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 6:2531 "sprintf() will be removed in the next major release, use the sprintf-js package instead."
+1679954130771 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.browser is deprecated"
+1679954130815 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated"
+1679954130818 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.size() is deprecated; use the .length property"
+1679954131015 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 6:2531 "sprintf() will be removed in the next major release, use the sprintf-js package instead."
+1679954131664 SEVERE https://courses.prometheus.org.ua/api/user/v1/account/login_session/ - Failed to load resource: the server responded with a status of 400 (Bad Request)
+1679954136821 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.browser is deprecated"
+1679954136831 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.toggle(handler, handler...) is deprecated"
+1679954136833 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 4:5800 "JQMIGRATE: jQuery.fn.size() is deprecated; use the .length property"
+1679954136932 WARNING https://courses.prometheus.org.ua/static/js/lms-base-vendor.188b06b0a06d.js 6:2531 "sprintf() will be removed in the next major release, use the sprintf-js package instead."
+1679954137666 SEVERE https://courses.prometheus.org.ua/api/user/v1/account/login_session/ - Failed to load resource: the server responded with a status of 400 (Bad Request)

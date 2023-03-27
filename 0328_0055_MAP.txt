@@ -1,0 +1,5 @@
+Variables for checking= allNull, Value For Button = true
+Variables for checking= withoutsimv, Value For Button = true
+Variables for checking= randoms, Value For Button = true
+Variables for checking= randomf, Value For Button = true
+Variables for checking= allnumber, Value For Button = true
